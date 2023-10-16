@@ -15,4 +15,5 @@ Do cách huấn luyện mô hình này đã cũ các thư viện có thể xảy
 nên cần phải cài đặt phiên bản cũ hơn để tương thích được với nhau.
 
 Để train model chạy file train.py trong thư mục model-files
+
 Để deploy thì chạy file app.py sau đó mở 0.0.0.0/3000 để test chatbot
