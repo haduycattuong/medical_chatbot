@@ -1,9 +1,14 @@
 # medical_chatbot
 requirements
+
 python version 3.11.4
+
 numpy version 1.23.4
+
 keras version 2.13.1
+
 nltk version 3.8.1
+
 tensorflow version 2.13.0
 
 Do cách huấn luyện mô hình này đã cũ các thư viện có thể xảy ra xung đột
